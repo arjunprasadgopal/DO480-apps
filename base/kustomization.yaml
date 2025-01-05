@@ -6,3 +6,4 @@ resources:
 - deployment-frontend.yaml
 - service.yaml
 - service-frontend.yaml
+namePrefix: Cluster-
